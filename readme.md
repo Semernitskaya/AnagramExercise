@@ -1,6 +1,6 @@
 ## Anagram exercise
 
-run using 
+Build using following command: 
 ```bash
 mvn clean package
 ```
